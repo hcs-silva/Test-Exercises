@@ -1,0 +1,36 @@
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 70px;
+    color:blueviolet;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+    background-color: orange;
+    border: 2px solid blue;
+   }
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Propriedade {
+    font-weight: bold;
+    background-color: aquamarine;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 1px 1px;
+    border-radius: 15%;
+}
+td.descrição {
+    border: 1px solid blue;
+}
+
+.topos {
+    border-bottom: 1px solid blue;
+}
